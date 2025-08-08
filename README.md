@@ -12,21 +12,21 @@ Seamless integration between frontend and backend
 Fully deployed on Render for public access
 
 Frontend:
-HTML/CSS
-JavaScript
-React.js
-Flask (serves static frontend)
-Python
+HTML/CSS,
+JavaScript,
+React.js,
+Flask (serves static frontend),
+Python.
 
 Backend:
-FastAPI
-Python (pandas, scikit-learn, pickle)
-CORS Middleware for frontend-backend integration
+FastAPI,
+Python (pandas, scikit-learn, pickle),
+CORS Middleware for frontend-backend integration.
 
 Model:
-RandomForestClassifier
-Trained on balanced PCOS dataset with 80/20 train-test split
+RandomForestClassifier,
+Trained on balanced PCOS dataset with 80/20 train-test split.
 
 Deployment:
-Render (for backend and hosting)
-GitHub (source control)
+Render (for backend and hosting),
+GitHub (source control).
